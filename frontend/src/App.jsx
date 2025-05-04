@@ -13,6 +13,10 @@ function App() {
       <h1>
         here is compo
       </h1>
+
+      <h2>
+        check everything is working.
+      </h2>
      </div>
     </>
   )
