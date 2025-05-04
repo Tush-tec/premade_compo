@@ -10,6 +10,9 @@ function App() {
     <>
      <div className=' text-3xl text-center font-bold text-[#5c5c5c] '>
       hello to pre made compo
+      <h1>
+        here is compo
+      </h1>
      </div>
     </>
   )
